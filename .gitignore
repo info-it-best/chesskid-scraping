@@ -1,0 +1,4 @@
+results/
+node_modules/
+pages/
+package-lock.json
